@@ -1,5 +1,7 @@
-### Hi there 👋
+###Hi 👋 Hi'm Luis Silva
+===========================
 
+I am from portugal and i am currently studing computer science in Universidade de Trás os montes e Alto Douro
 <!--
 **LuiscSilva17/LuiscSilva17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
