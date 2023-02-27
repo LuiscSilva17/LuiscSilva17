@@ -1,4 +1,4 @@
-###Hi 👋 Hi'm Luis Silva
+Hi 👋 Hi'm Luis Silva
 ===========================
 
 I am from portugal and i am currently studing computer science in Universidade de Trás os montes e Alto Douro
